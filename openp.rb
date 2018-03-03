@@ -2,7 +2,7 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
  class Openp < Formula
-  desc "openp just shows open panel GUI to select directory/file, which may fulfills interactive selection in script files."
+  desc "Just shows open panel GUI to select directory/file, which may fulfills interactive selection in script."
   homepage "https://github.com/watr/openp"
   url "https://github.com/watr/openp/releases/download/v0.0.1/openp.zip"
   sha256 "26b679d59148ca1bea480e44cb9de2a53608dc0c486141da9452679e2ceaac41"
