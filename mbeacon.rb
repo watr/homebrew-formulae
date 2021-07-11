@@ -1,8 +1,8 @@
 class Mbeacon < Formula
   desc "Turn your mac into an iBeacon."
   homepage ""
-  url "https://github.com/watr/mbeacon/releases/download/v0.2.0/mbeacon.zip"
-  sha256 "6511b0883fa8ffa92c44d768fae44c9862906188dae9a47747c23bbf45e23f6a"
+  url "https://github.com/watr/mbeacon/releases/download/v0.2.1/mbeacon.zip"
+  sha256 "13fe2ced7c7f9a47a46292d4cb5976dc2efc9cb560c70daf5ac0fbb104c2455f"
 
   def install
     bin.install 'mbeacon'
